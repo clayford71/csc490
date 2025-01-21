@@ -1,0 +1,14 @@
+A mobile app that is companion to RL stat machine, custimize information and aethetic to display.
+
+TODO::
+1. user can link multiple accounts (using username or other public info) see all of them at the same time
+2. A framework for the codebase in swift? 
+3. UI design
+4. What's the model look like, how does the UI talks with the model, and how does your model talks with the API
+5. Add functionalities to either the RL stat machine or the phone app.
+
+
+Questions::
+1. What is scope of the informations? Currently a single API, can we make it bigger?
+2. The current API, how do we use it?
+3. How does the model talk with the RL stat machine? Wifi network/ or bluetooth. 
