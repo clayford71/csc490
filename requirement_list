@@ -1,3 +1,5 @@
+Rocket League Stat Machine Companion
+
 A mobile app that is companion to RL stat machine, custimize information and aethetic to display.
 
 TODO::
@@ -7,6 +9,30 @@ TODO::
 3. UI design
 4. What's the model look like, how does the UI talks with the model, and how does your model talks with the API
 5. Add functionalities to either the RL stat machine or the phone app.
+
+
+Milestone 1:
+Test and Verify all API Calls
+Decide on framework for Mobile APP, have a skeleton or sample project running.
+Design User Interface for Mobile App
+
+Milestone 2:
+Create Framework for Mobile App
+Implement User Interface for Mobile App
+Link Mobile App with the stat machine, to display at least one custom message.
+
+Milestone 3:
+Create and Ensure Functionality of Mobile App
+User profile and login
+User can save their settings
+cutsomization include color, game mode, user, etc.
+
+Milestone 4:
+link all functionality of the app with the stat machine
+If we have time, think about adding additional functionality.
+
+Milestone 5:
+Finalizing product, both the stat machine and the phone app
 
 
 Questions::
