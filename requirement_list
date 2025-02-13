@@ -5,15 +5,15 @@ A mobile app that is companion to RL stat machine, custimize information and aet
 TODO::
 1. user can link multiple accounts (using username or other public info) see all of them at the same time
 2. User can have profiles, for their accounts, their app settings.
-2. A framework for the codebase in swift? 
+2. A framework for the codebase in swift? (solved, swift)
 3. UI design
 4. What's the model look like, how does the UI talks with the model, and how does your model talks with the API
 5. Add functionalities to either the RL stat machine or the phone app.
 
 
 Milestone 1:
-Test and Verify all API Calls
-Decide on framework for Mobile APP, have a skeleton or sample project running. Will this go on android, ios?
+(Done) Test and Verify all API Calls
+Decide on framework for Mobile APP, have a skeleton or sample project running. Will this go on android, ios? (solved, IOS)
 Design User Interface for Mobile App
 
 Milestone 2:
