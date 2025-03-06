@@ -13,10 +13,13 @@ TODO::
 
 Milestone 1:
 (Done) Test and Verify all API Calls
-Decide on framework for Mobile APP, have a skeleton or sample project running. Will this go on android, ios? (solved, IOS)
+(Done) Decide on framework for Mobile APP, have a skeleton or sample project running. Will this go on android, ios? (solved, IOS)
+Login page
+Statistic Page
 Design User Interface for Mobile App
 
 Milestone 2:
+MySql server for user data/login.
 Create Framework for Mobile App
 Implement User Interface for Mobile App
 Link Mobile App with the stat machine, to display at least one custom message.
