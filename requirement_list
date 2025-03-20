@@ -14,20 +14,20 @@ TODO::
 Milestone 1:
 (Done) Test and Verify all API Calls
 (Done) Decide on framework for Mobile APP, have a skeleton or sample project running. Will this go on android, ios? (solved, IOS)
-Login page
-Statistic Page
-Design User Interface for Mobile App
+(Done) Login page
+(Done) Statistic Page
+(Done) Design User Interface for Mobile App
 
 Milestone 2:
-MySql server for user data/login.
-Create Framework for Mobile App
+(Done) MySql server for user data/login.
+(Done) Create Framework for Mobile App
 Implement User Interface for Mobile App
 Link Mobile App with the stat machine, to display at least one custom message.
 
 Milestone 3:
-Create and Ensure Functionality of Mobile App (what does this imply? I wrote some down here but maybe there is more)
-User profile and login
-User can save their settings
+(Done) Create and Ensure Functionality of Mobile App (what does this imply? I wrote some down here but maybe there is more)
+(Done) User profile and login
+(Done) User can save their settings
 cutsomization include color, game mode, user, etc.
 
 Milestone 4:
